@@ -3,5 +3,6 @@ Pillow~=9.2.0
 pytesseract~=0.3.9
 pyttsx3~=2.90
 googletrans~=3.0.0
-opencv-python
-numpy
+opencv-python~=4.6.0.66
+numpy~=1.23.1
+pygame~=2.1.2
